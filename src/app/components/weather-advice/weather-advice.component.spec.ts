@@ -21,3 +21,4 @@ describe('WeatherAdviceComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+// Update the import path to reflect the new location of the component
